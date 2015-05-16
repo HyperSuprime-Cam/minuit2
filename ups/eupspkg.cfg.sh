@@ -1,3 +1,3 @@
 # EupsPkg config file. Sourced by 'eupspkg'
 
-CONFIGURE_OPTIONS="--prefix=$PREFIX --disable-openmp"
+CONFIGURE_OPTIONS+=" --disable-openmp"
